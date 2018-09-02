@@ -1,0 +1,10 @@
+Pods
+Podfile.lock
+fizzohomework.xcodeproj/xcuserdata
+fizzohomework.xcworkspace/xcuserdata/
+.DS_Store
+*.swp
+.idea/
+build/
+fizzohomework.xcodeproj/project.xcworkspace/xcshareddata
+fizzohomework.xcworkspace/xcshareddata/
